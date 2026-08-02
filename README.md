@@ -1,23 +1,57 @@
 <h1 align="center">Hi 👋, This is Boat Brothers</h1>
-<h3 align="center">Digital Systems &amp; Systems Integration Partner for Northeast India</h3>
+<h3 align="center">Digital Innovation Leaders for Northeast India — Since 2020</h3>
 
 <p align="center">
-Based in Guwahati, Assam — we build interactive kiosks, museum digitization systems, digital signage, e-governance solutions, and data-centre infrastructure for clients across Northeast India.
+Built different. Built for the Northeast. We're the team behind digital infrastructure, custom software, and cultural heritage tech — premium engineering with regional grit, no outsourced promises.
 </p>
 
 <h3 align="left">🌐 Website:</h3>
 <p align="left">
-<a href="http://boatbrothertechconsulting.in/" target="_blank" rel="noreferrer">boatbrothertechconsulting.in</a>
+<a href="https://boatbrothertechconsulting.in/" target="_blank" rel="noreferrer">boatbrothertechconsulting.in</a>
+</p>
+
+<h3 align="left">🏢 Company Details:</h3>
+<p align="left">
+<b>Legal Name:</b> Boat Brothers Tech Consulting Pvt. Ltd.<br/>
+<b>GST Number:</b> 18AAMCB7380H1Z9<br/>
+<b>Office Address:</b> Lokhra Rd, near Hanuman Mandir, AdaGudam, Lal Ganesh, Guwahati, Assam 781034, India<br/>
+<b>Office Hours:</b> Monday – Sunday: 9:00 AM – 9:00 PM
 </p>
 
 <h3 align="left">🛠️ What We Do:</h3>
 <p align="left">
-- Interactive Kiosks<br/>
-- Museum Digitization<br/>
+- Interactive Kiosks &amp; Museum Digitization<br/>
 - Digital Signage<br/>
 - E-Governance Solutions<br/>
-- Data-Centre Solutions<br/>
-- Full-Stack Software Development
+- IT Park &amp; Campus Infrastructure<br/>
+- Data-Centre &amp; Cloud Operations<br/>
+- Full-Stack Software Development (incl. Hotel Management Systems)
+</p>
+
+<h3 align="left">📈 By the Numbers:</h3>
+<p align="left">
+35+ Projects Completed &nbsp;·&nbsp; 10+ Strategic Partners &nbsp;·&nbsp; 5+ Years Experience &nbsp;·&nbsp; 24/7 Support
+</p>
+
+<h3 align="left">🗺️ Our Journey:</h3>
+<p align="left">
+<b>2020</b> — Started as Unified Solution, a firm focused on hardware/software solutions with on-site installation<br/>
+<b>2021</b> — Boat Brothers founded<br/>
+<b>2022</b> — Interactive kiosk software installed at Sri Sri Madhabdev Kalakshetra, Narayanpur, Lakhimpur<br/>
+<b>2023</b> — Delivered kiosk systems for Madhavdev Museum, Assam Museum, and a Manipur cultural heritage platform<br/>
+<b>2024</b> — Built Bilzaro Hotel Management Software<br/>
+<b>2025</b> — Expanded into e-governance platforms, IT parks, and high-availability data centres
+</p>
+
+<h3 align="left">🧑‍💻 The Crew:</h3>
+<p align="left">
+<b>Rohan Rajak</b> — CTO &amp; Founder (IIT Kharagpur; Ex-GE, HealthifyMe, Innoplexus)<br/>
+<b>Rahul Sarkar</b> — Operations &amp; Co-founder (Gauhati University)<br/>
+<b>Raktim Bhattacharya</b> — Co-founder &amp; Head of Sales<br/>
+<b>Dhawal Upadhyay</b> — Strategy Lead (IIT Kanpur; Ex-Rubrik, Databricks)<br/>
+<b>Prabal Boro</b> — Marketing &amp; Regional Growth<br/>
+<b>Amit Kumar Ram</b> — Lead Designer (IIT Kharagpur &amp; IIT Bombay Design)<br/>
+<b>Amar Das</b> — Software Engineer
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
