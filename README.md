@@ -7,15 +7,23 @@ Built different. Built for the Northeast. We're the team behind digital infrastr
 
 <h3 align="left">🌐 Website:</h3>
 <p align="left">
-<a href="https://boatbrothertechconsulting.in/" target="_blank" rel="noreferrer">boatbrothertechconsulting.in</a>
+<a href="https://boatbrothers.in" target="_blank" rel="noreferrer">boatbrothers.in</a>
 </p>
 
 <h3 align="left">🏢 Company Details:</h3>
 <p align="left">
-<b>Legal Name:</b> Boat Brothers Tech Consulting Pvt. Ltd.<br/>
-<b>GST Number:</b> 18AAMCB7380H1Z9<br/>
-<b>Office Address:</b> Lokhra Rd, near Hanuman Mandir, AdaGudam, Lal Ganesh, Guwahati, Assam 781034, India<br/>
+<b>Legal Name:</b> Boatbrothers Private Limited<br/>
+<b>CIN:</b> U62099AS2024PTC026685<br/>
+<b>GSTIN:</b> 18AAMCB7380H1Z9<br/>
+<b>Office Address:</b> 202, Lokhra Road, Near Hanuman Mandir, Adagudam, Lal Ganesh, Guwahati, Assam 781034, India<br/>
 <b>Office Hours:</b> Monday – Sunday: 9:00 AM – 9:00 PM
+</p>
+
+<h3 align="left">📬 Contact:</h3>
+<p align="left">
+<b>Email:</b> <a href="mailto:admin@boatbrothers.in">admin@boatbrothers.in</a> &nbsp;·&nbsp; <a href="mailto:boatbrotherspvtltd@gmail.com">boatbrotherspvtltd@gmail.com</a><br/>
+<b>Phone / WhatsApp:</b> <a href="tel:+918133810323">+91 81338 10323</a><br/>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/company/boat-brothers-ptv-ltd/" target="_blank" rel="noreferrer">Boat Brothers</a> &nbsp;·&nbsp; <b>Instagram:</b> <a href="https://www.instagram.com/boat_brotherspvtltd/" target="_blank" rel="noreferrer">@boat_brotherspvtltd</a>
 </p>
 
 <h3 align="left">🛠️ What We Do:</h3>
@@ -45,11 +53,11 @@ Built different. Built for the Northeast. We're the team behind digital infrastr
 
 <h3 align="left">🧑‍💻 The Crew:</h3>
 <p align="left">
-<b>Rohan Rajak</b> — CTO &amp; Founder (IIT Kharagpur; Ex-GE, HealthifyMe, Innoplexus)<br/>
-<b>Rahul Sarkar</b> — Operations &amp; Co-founder (Gauhati University)<br/>
-<b>Raktim Bhattacharya</b> — Co-founder &amp; Head of Sales<br/>
-<b>Dhawal Upadhyay</b> — Strategy Lead (IIT Kanpur; Ex-Rubrik, Databricks)<br/>
-<b>Prabal Boro</b> — Marketing &amp; Regional Growth<br/>
+<b>Rohan Rajak</b> — Board Member, Technology (CTO) (IIT Kharagpur; Ex-GE, HealthifyMe, Innoplexus)<br/>
+<b>Rahul Sarkar</b> — Board Member, Operations (Gauhati University)<br/>
+<b>Raktim Bhattacharya</b> — Board Member, Sales<br/>
+<b>Dhawal Upadhyay</b> — Board Member, Strategy (IIT Kanpur; Ex-Rubrik, Databricks)<br/>
+<b>Prabal Boro</b> — Board Member, Marketing &amp; Regional Growth<br/>
 <b>Amit Kumar Ram</b> — Lead Designer (IIT Kharagpur &amp; IIT Bombay Design)<br/>
 <b>Amar Das</b> — Software Engineer
 </p>
